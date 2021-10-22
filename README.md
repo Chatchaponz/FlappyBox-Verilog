@@ -1,2 +1,2 @@
-# FlappyBox-Verilog
-Ref: https://github.com/jconenna/Yoshis-Nightmare
+# FlappyBox-Verilog (FPGA GAME)
+Reference: https://github.com/jconenna/Yoshis-Nightmare
